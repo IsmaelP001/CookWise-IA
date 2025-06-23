@@ -1,0 +1,60 @@
+{
+    "pantryItems": [
+      {
+        "category": "Granos y Cereales",
+        "image": "https://example.com/images/granos_cereales.jpg",
+        "items": [
+          { "name": "Arroz", "inStock": 2, "image": "https://example.com/images/arroz.jpg" },
+          { "name": "Pasta", "inStock": 3, "image": "https://example.com/images/pasta.jpg" },
+          { "name": "Harina", "inStock": 1, "image": "https://example.com/images/harina.jpg" },
+          { "name": "Avena", "inStock": 1, "image": "https://example.com/images/avena.jpg" },
+          { "name": "Pan", "inStock": 2, "image": "https://example.com/images/pan.jpg" }
+        ]
+      },
+      {
+        "category": "Proteínas",
+        "image": "https://example.com/images/proteinas.jpg",
+        "items": [
+          { "name": "Huevos", "inStock": 12, "image": "https://example.com/images/huevos.jpg" },
+          { "name": "Pollo", "inStock": 1, "image": "https://example.com/images/pollo.jpg" },
+          { "name": "Carne de res", "inStock": 0, "image": "https://example.com/images/carne_res.jpg" },
+          { "name": "Pescado", "inStock": 2, "image": "https://example.com/images/pescado.jpg" },
+          { "name": "Tofu", "inStock": 1, "image": "https://example.com/images/tofu.jpg" }
+        ]
+      },
+      {
+        "category": "Lácteos",
+        "image": "https://example.com/images/lacteos.jpg",
+        "items": [
+          { "name": "Leche", "inStock": 2, "image": "https://example.com/images/leche.jpg" },
+          { "name": "Queso", "inStock": 1, "image": "https://example.com/images/queso.jpg" },
+          { "name": "Yogur", "inStock": 3, "image": "https://example.com/images/yogur.jpg" },
+          { "name": "Mantequilla", "inStock": 1, "image": "https://example.com/images/mantequilla.jpg" },
+          { "name": "Crema", "inStock": 1, "image": "https://example.com/images/crema.jpg" }
+        ]
+      },
+      {
+        "category": "Verduras",
+        "image": "https://example.com/images/verduras.jpg",
+        "items": [
+          { "name": "Zanahorias", "inStock": 5, "image": "https://example.com/images/zanahorias.jpg" },
+          { "name": "Tomates", "inStock": 3, "image": "https://example.com/images/tomates.jpg" },
+          { "name": "Cebolla", "inStock": 2, "image": "https://example.com/images/cebolla.jpg" },
+          { "name": "Papas", "inStock": 4, "image": "https://example.com/images/papas.jpg" },
+          { "name": "Lechuga", "inStock": 1, "image": "https://example.com/images/lechuga.jpg" }
+        ]
+      },
+      {
+        "category": "Frutas",
+        "image": "https://example.com/images/frutas.jpg",
+        "items": [
+          { "name": "Manzanas", "inStock": 4, "image": "https://example.com/images/manzanas.jpg" },
+          { "name": "Plátanos", "inStock": 6, "image": "https://example.com/images/platanos.jpg" },
+          { "name": "Naranjas", "inStock": 3, "image": "https://example.com/images/naranjas.jpg" },
+          { "name": "Uvas", "inStock": 2, "image": "https://example.com/images/uvas.jpg" },
+          { "name": "Peras", "inStock": 1, "image": "https://example.com/images/peras.jpg" }
+        ]
+      }
+    ]
+  }
+  

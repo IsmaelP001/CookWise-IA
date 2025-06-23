@@ -1,0 +1,110 @@
+{
+    "recipes": [
+      {
+        "name": "Pizza Margarita",
+        "description": "Una pizza clásica italiana con tomate, mozzarella y albahaca.",
+        "totalIngredients": 7,
+        "difficulty": "Fácil",
+        "preparationTime": "30 min",
+        "category": "Italiana",
+        "ingredients": [
+          { "name": "Harina", "inStock": 500, "needed": 500 },
+          { "name": "Levadura", "inStock": 10, "needed": 5 },
+          { "name": "Agua", "inStock": 300, "needed": 250 },
+          { "name": "Sal", "inStock": 20, "needed": 10 },
+          { "name": "Aceite de oliva", "inStock": 50, "needed": 30 },
+          { "name": "Tomate triturado", "inStock": 200, "needed": 150 },
+          { "name": "Mozzarella", "inStock": 250, "needed": 200 }
+        ],
+        "image": "https://www.paulinacocina.net/wp-content/uploads/2023/09/pizza-margherita-paulina-cocina-recetas-1200x900.jpg"
+      },
+      {
+        "name": "Pasta Alfredo",
+        "description": "Fideos con salsa cremosa de queso parmesano y mantequilla.",
+        "totalIngredients": 6,
+        "difficulty": "Media",
+        "preparationTime": "25 min",
+        "category": "Italiana",
+        "ingredients": [
+          { "name": "Pasta", "inStock": 300, "needed": 250 },
+          { "name": "Mantequilla", "inStock": 100, "needed": 80 },
+          { "name": "Crema de leche", "inStock": 200, "needed": 150 },
+          { "name": "Queso parmesano", "inStock": 100, "needed": 80 },
+          { "name": "Sal", "inStock": 30, "needed": 10 },
+          { "name": "Pimienta", "inStock": 20, "needed": 5 }
+        ],
+        "image": "https://mojo.generalmills.com/api/public/content/8GresqM3pUK_fXrmtlyKjg_gmi_hi_res_jpeg.jpeg?v=df1663f8&t=16e3ce250f244648bef28c5949fb99ff"
+      },
+      {
+        "name": "Hamburguesa Clásica",
+        "description": "Carne jugosa con queso, lechuga y tomate en pan tostado.",
+        "totalIngredients": 8,
+        "difficulty": "Fácil",
+        "preparationTime": "20 min",
+        "category": "Americana",
+        "ingredients": [
+          { "name": "Carne de res", "inStock": 500, "needed": 250 },
+          { "name": "Pan de hamburguesa", "inStock": 4, "needed": 2 },
+          { "name": "Lechuga", "inStock": 100, "needed": 50 },
+          { "name": "Tomate", "inStock": 2, "needed": 1 },
+          { "name": "Queso cheddar", "inStock": 4, "needed": 2 },
+          { "name": "Cebolla", "inStock": 1, "needed": 1 },
+          { "name": "Mostaza", "inStock": 50, "needed": 20 },
+          { "name": "Ketchup", "inStock": 50, "needed": 20 }
+        ],
+        "image": "https://imag.bonviveur.com/hamburguesa-clasica.jpg"
+      },
+      {
+        "name": "Tacos de Pollo",
+        "description": "Tortillas rellenas con pollo, guacamole y pico de gallo.",
+        "totalIngredients": 7,
+        "difficulty": "Fácil",
+        "preparationTime": "30 min",
+        "category": "Mexicana",
+        "ingredients": [
+          { "name": "Pechuga de pollo", "inStock": 300, "needed": 250 },
+          { "name": "Tortillas de maíz", "inStock": 10, "needed": 5 },
+          { "name": "Aguacate", "inStock": 2, "needed": 1 },
+          { "name": "Tomate", "inStock": 2, "needed": 1 },
+          { "name": "Cilantro", "inStock": 30, "needed": 20 },
+          { "name": "Cebolla", "inStock": 1, "needed": 1 },
+          { "name": "Lima", "inStock": 2, "needed": 1 }
+        ],
+        "image": "https://www.infobae.com/new-resizer/FZ8wPuFfYXs7H3Tyd4RDxfXL6JQ=/arc-anglerfish-arc2-prod-infobae/public/CT7ZYTFWURF2TK6KO45QMENERA.jpg"
+      },
+      {
+        "name": "Sushi Roll",
+        "description": "Rollos de sushi con arroz, alga nori, salmón y aguacate.",
+        "totalIngredients": 6,
+        "difficulty": "Difícil",
+        "preparationTime": "45 min",
+        "category": "Japonesa",
+        "ingredients": [
+          { "name": "Arroz de sushi", "inStock": 200, "needed": 150 },
+          { "name": "Alga nori", "inStock": 10, "needed": 5 },
+          { "name": "Salmón", "inStock": 250, "needed": 200 },
+          { "name": "Aguacate", "inStock": 2, "needed": 1 },
+          { "name": "Vinagre de arroz", "inStock": 100, "needed": 50 },
+          { "name": "Salsa de soya", "inStock": 100, "needed": 50 }
+        ],
+        "image": "https://i.ytimg.com/vi/1HoWAaX_Wik/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCp41dGL9T2776hYeb_bdiJAyZIXw"
+      },
+      {
+        "name": "Arepas Venezolanas(queso)",
+        "description": "Tortillas de maíz rellenas de queso o carne mechada.",
+        "totalIngredients": 5,
+        "difficulty": "Fácil",
+        "preparationTime": "25 min",
+        "category": "Latina",
+        "ingredients": [
+          { "name": "Harina de maíz", "inStock": 500, "needed": 400 },
+          { "name": "Agua", "inStock": 300, "needed": 250 },
+          { "name": "Sal", "inStock": 30, "needed": 10 },
+          { "name": "Queso blanco", "inStock": 200, "needed": 150 },
+          { "name": "Mantequilla", "inStock": 50, "needed": 30 }
+        ],
+        "image": "https://7diasdesabor.com/wp-content/uploads/2021/09/10708dff9e9c7d34696897cf0a6e9b0fe0a-2.jpg"
+      }
+    ]
+  }
+  
